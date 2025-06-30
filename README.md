@@ -1,6 +1,6 @@
 # WRO-Project
 Has details about our journey in WRO
-## 🔧 Hardware Overview
+## Hardware Overview
 
 - Jetson Nano B01 (4GB)
 - Pololu 37D DC Motor (FWD)
@@ -15,7 +15,7 @@ Has details about our journey in WRO
 
 ---
 
-## 🧠 Vision & Control Strategy
+##  Vision & Control Strategy
 
 - *Lane Detection*: Edge detection + curve fitting
 - *Traffic Signs*: Color + shape recognition for red/green
@@ -25,7 +25,7 @@ Has details about our journey in WRO
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 ├── main.py
 ├── hardware_interfaces.py
 ├── ultrasonic_obstacle_avoidance.py
